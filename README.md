@@ -78,7 +78,7 @@ community.
 
 ## 🏆 3\. Leaderboard [[Back to Top]](#content)
 
-<div align="center"><img src="figures/benchmark.png" style="text-align:left;" alt="Overview of MT-Eval" width="80%">
+<div align="left"><img src="figures/benchmark.png" style="text-align:left;" alt="Overview of MT-Eval" width="80%">
 <br><figcaption style="text-align:left;">
 
 --------------------------------------------------------------------------------
